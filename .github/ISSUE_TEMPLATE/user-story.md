@@ -21,11 +21,12 @@ assignees: ''
    
 
  ### Acceptance Criteria  
+ 
 
-   
-
- ```gherkin
+ ```gherkin```
 
 Given a product "Old Phone" exists
+
 When I select the option to delete this product
+
 Then the product should no longer be visible in the public catalog
